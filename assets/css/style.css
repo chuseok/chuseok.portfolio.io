@@ -401,7 +401,7 @@ section {
 
 
 /* education */
-.education .content .row div ul li h5{
+.education .content ul li h5{
     font-size: 16px;
     background: #f7f8f9;
     padding: 5px 15px;
